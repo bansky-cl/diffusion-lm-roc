@@ -1,0 +1,25 @@
+epoch:   49    loss: 2.91828    time:Mon Jun 12 18:59:19 2023
+epoch:   49    loss: 3.03357    time:Mon Jun 12 19:10:15 2023
+epoch:   49    loss: 1.89161    time:Mon Jun 12 19:30:37 2023
+epoch:   49    loss: 3.01129    time:Mon Jun 12 22:00:51 2023
+steps:      100 loss: 5.5498 time_cost: 232.38
+steps:      200 loss: 2.8325 time_cost: 238.32
+steps:      300 loss: 1.4659 time_cost: 240.59
+steps:      400 loss: 0.8522 time_cost: 239.59
+steps:      500 loss: 0.5671 time_cost: 239.51
+steps:      600 loss: 0.4290 time_cost: 238.52
+steps:      700 loss: 0.3263 time_cost: 240.48
+steps:      800 loss: 0.2685 time_cost: 239.32
+steps:      900 loss: 0.2241 time_cost: 241.72
+steps:     1000 loss: 0.1942 time_cost: 241.06
+steps:     1100 loss: 0.1745 time_cost: 241.10
+steps:     1200 loss: 0.1582 time_cost: 241.13
+steps:     1300 loss: 0.1619 time_cost: 241.53
+steps:     1400 loss: 0.1379 time_cost: 240.69
+steps:     1500 loss: 0.1193 time_cost: 241.23
+steps:     1600 loss: 0.1108 time_cost: 240.35
+steps:     1700 loss: 0.1199 time_cost: 238.17
+steps:     1800 loss: 0.1058 time_cost: 241.19
+steps:     1900 loss: 0.0853 time_cost: 241.19
+steps:     2000 loss: 0.0887 time_cost: 241.18
+epoch: 1999    loss: 1.45662    time:Mon Jun 12 23:22:41 2023
