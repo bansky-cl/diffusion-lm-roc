@@ -14,10 +14,14 @@ Main code idea is in the `diffusion_bert.py`
 some change   
 - add loss curve in ckpt folder
 - add the sample result in test data
+## sample result
+It seems look good in English but it's overfited.    
+`[CLS] john was wanted a girlfriend so so he got dating dating. he went went on on date with her friend named joy came. she got five minutes. he got got angry for an angry friend. joy had a problem he had anger problem and problem, no hive hives. anna prevented him from finding she. [SEP]`
+
 
 ## loss curve in 2000 steps
 ![loss curve](Saved_Models/20230612bert_diffusion/loss_curve.png)
 
 Correct me if I'm wrong or you have new understanding. Thks!
 
-origin papar is [diffusion-lm](https://arxiv.org/pdf/2205.14217.pdf)
+Origin papar is [diffusion-lm](https://arxiv.org/pdf/2205.14217.pdf)
