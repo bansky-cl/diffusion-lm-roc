@@ -1,5 +1,5 @@
 # Readme 
-A replication of EBGU's Diffusion LM which trained on **small** part of ROCStory dataset in a GPU, which is the simple implementation and easy to understand
+A replication of EBGU's Diffusion LM which trained on **small** part of ROCStory dataset in one GPU, which is the simple implementation and easy to understand
 
 1. run `python trainer.py` for training.
 2. run `python infer.py` for generating sample in unconditional way.
