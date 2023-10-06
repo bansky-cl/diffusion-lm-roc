@@ -16,7 +16,9 @@ some change
 - add the sample result in test data
 ## sample result
 It seems look good in English but it's overfited.    
-`[CLS] john was wanted a girlfriend so so he got dating dating. he went went on on date with her friend named joy came. she got five minutes. he got got angry for an angry friend. joy had a problem he had anger problem and problem, no hive hives. anna prevented him from finding she. [SEP]`
+```
+[CLS] john was wanted a girlfriend so so he got dating dating. he went went on on date with her friend named joy came. she got five minutes. he got got angry for an angry friend. joy had a problem he had anger problem and problem, no hive hives. anna prevented him from finding she. [SEP]
+```
 
 
 ## loss curve in 2000 steps
