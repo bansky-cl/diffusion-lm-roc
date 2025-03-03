@@ -160,9 +160,9 @@ def main(
             token_type_ids = token_type_ids.to(device)
             attention_mask = attention_mask.to(device)
         
-        # if need mix fp  
-        with torch.cuda.amp.autocast(enabled=amp):
-            loss,pred,t = model(input_ids,token_type_ids,attention_mask) 
+            # if need mix fp  
+            with torch.cuda.amp.autocast(enabled=amp):
+                loss,pred,t = model(input_ids,token_type_ids,attention_mask) 
         
         # update recall loss
         loss_rec = loss_rec * 0.99 + loss.item() * 0.01  
